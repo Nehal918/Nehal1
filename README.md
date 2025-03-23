@@ -20,4 +20,4 @@ Types of Radio Telescopes:
 
 Single Dish: A parabolic antenna that collects signals from a broad area (e.g., Arecibo Observatory).
 Radio Interferometers: Multiple dishes working together to improve resolution (e.g., Very Large Array).
-Aperture Synthesis Telescopes: Uses computational techniques to simulate a large dish (e.g., ALMA).
+Aperture Synthesis Telescopes: Uses computational techniques to simulate a large dish (e.g., ALMA)..
